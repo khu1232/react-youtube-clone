@@ -1,0 +1,28 @@
+# 📺 YouTube Clone (React + Material UI + Axios)
+
+A responsive YouTube clone built using **React**, **Material UI**, and **Axios**. This project replicates core YouTube features such as video browsing, searching, and playback using a clean modern UI and external API integration.
+
+---
+
+## 🚀 Features
+
+- 🔍 Search videos by keyword  
+- 📺 Watch video playback screen  
+- 📃 Display video details (title, channel, views, etc.)  
+- 📱 Fully responsive UI for all devices  
+- 🎨 Styled using Material UI (MUI)  
+- 🌐 Data fetching using Axios  
+- ⚡ Fast and dynamic user experience  
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js – Frontend library  
+- Material UI – UI framework  
+- Axios – HTTP client  
+- YouTube Data API v3 – Video data source  
+
+---
+
+## 📁 Project Structure
