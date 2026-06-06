@@ -87,17 +87,23 @@ key: "YOUR_YOUTUBE_API_KEY"
 
 ## 📸 Screenshots
 
-### Home Page
+### Default Player
 
-![Home Page](./screenshots/home.png)
+![Video Player](./screenshots/home.png)
 
 ### Search Results
 
 ![Search Results](./screenshots/search.png)
 
+### SearchedItem Page
+
+![Home Page](./screenshots/searched.png)
+
 ### Video Player
 
 ![Video Player](./screenshots/player.png)
+
+
 
 ## 🎯 Learning Outcomes
 
